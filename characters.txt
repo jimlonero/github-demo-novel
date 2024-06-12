@@ -2,3 +2,5 @@ Jay Gatsby
 Nick Carraway
 Daisy Buchanan
 Tom (Thomas) Buchanan
+Myrtle Wilson
+George Wilson
